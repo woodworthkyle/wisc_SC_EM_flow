@@ -7,9 +7,9 @@ gantt
         Flux quantum modeling research: 2025-10-27, 7d
     section Workflow
         Surface Impedance scripts :2025-10-15, 2d
-        Initial simulation of microstrip line :2025-10-17, 1d
-        Layer stack replication: 2025-10-21, 2d
-        GDS import script: 2025-10-23, 3d
+        Initial simulation of microstrip line :2025-10-17, 2d
+        Layer stack replication: 2025-10-19, 2d
+        GDS import script: 2025-10-21, 5d
         Fluxon modeling in HFSS: 2025-11-02, 7d
     Section Characterization
         AND gate :2025-11-9, 5d
