@@ -4,7 +4,7 @@ gantt
     dateFormat YYYY-MM-DD
     section Literature Review
         Summarize thesis: 2025-10-13, 3d
-        Flux quantum modeling research: 2025-10-27, 7d
+        Flux quantum modeling research: 2025-11-17, 7d
     section Workflow
         Surface Impedance scripts :2025-10-15, 2d
         Initial simulation of microstrip line :2025-10-17, 2d
@@ -12,6 +12,6 @@ gantt
         GDS import script: 2025-10-21, 5d
         Fluxon modeling in HFSS: 2025-11-02, 7d
     Section Characterization
-        AND gate :2025-11-9, 5d
-        OR gate :2025-11-14, 2d
+        AND gate :2025-12-01, 5d
+        OR gate :2025-12-06, 2d
 ```
