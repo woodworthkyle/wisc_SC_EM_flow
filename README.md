@@ -15,5 +15,5 @@ gantt
         InductEx Fluxon example: 2025-11-29, 2d
     Section Characterization
         AND gate :2025-12-02, 5d
-        OR gate :2025-12-06, 2d
+        OR gate :2025-12-07, 2d
 ```
