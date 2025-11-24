@@ -12,8 +12,8 @@ gantt
         GDS import script: 2025-10-21, 5d
         Fluxon modeling in HFSS: 2025-11-02, 7d
         InudctEx setup: 2025-11-24, 5d
-        InductEx Fluxon example: 2025-11-30, 2d
+        InductEx Fluxon example: 2025-11-29, 2d
     Section Characterization
-        AND gate :2025-12-01, 5d
-        OR gate :2025-12-05, 2d
+        AND gate :2025-12-02, 5d
+        OR gate :2025-12-06, 2d
 ```
